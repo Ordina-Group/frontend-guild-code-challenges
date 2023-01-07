@@ -22,6 +22,7 @@ The official GitHub repo for the code challenges from the frontend slack channel
 *Questions? contact me at slack*
 
 ## Participants
+[Jorrik](mailto:Jorrik.Klijnsma@ordina.nl)
 
 ## Challanges
 **[2023](./2023/general.md)**
