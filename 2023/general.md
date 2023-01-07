@@ -5,3 +5,4 @@ Learnings and notes:
 
 
 ## Overall
+Trying out to set up this whole repo. 🤞 It will work troughout the whole year. - Jorrik
